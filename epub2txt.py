@@ -19,7 +19,7 @@ def extract_text(epub_path):
     return '\n'.join(all_text)
 
 # Path to the EPUB file
-epub_file_path = 'The Four Steps to the Epiphany.epub' # paste relative path here
+epub_file_path = 'input.epub' # paste relative path here
 
 # Extract text from the EPUB file
 extracted_text = extract_text(epub_file_path)

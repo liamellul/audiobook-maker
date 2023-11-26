@@ -1,2 +1,4 @@
 book.txt
 /venv
+.DS_Store
+.gitignore

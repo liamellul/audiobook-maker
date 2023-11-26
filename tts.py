@@ -41,4 +41,3 @@ text_segments = slice_text(file_path, max_length)
 
 # using "Fable" voice but you can select whichever 
 convert_text_to_speech(text_segments, "fable")
-
